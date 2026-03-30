@@ -97,17 +97,6 @@ When run on simulated data calibrated to the Swiss economy:
 
 ---
 
-## Context and tooling note
-
-My primary quantitative tools for research are **Stata** and **Matlab** — these 
-are the languages I use in all published and submitted work (see [homepage](https://sites.google.com/view/marcelhenkel) 
-for replication code). This script was developed with AI assistance (Claude) as 
-part of transitioning toward R-based workflows for applied policy analysis. 
-The methods, calibration choices, and inline documentation reflect my own 
-understanding of the underlying econometrics.
-
----
-
 ## Reference
 
 Glocker, C. & Kaniovski, S. (2019). An Evaluation of Business Cycle Indicators 
