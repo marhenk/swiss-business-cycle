@@ -4,8 +4,6 @@ Replication of the indicator evaluation methodology from **Glocker & Kaniovski (
 "An Evaluation of Business Cycle Indicators for the Swiss Economy," 
 *WIFO Grundlagen für die Wirtschaftspolitik* Nr. 6.
 
-Prepared as a code sample for an application to the Ressort Konjunktur, SECO (March 2026).
-
 ---
 
 ## What this does
